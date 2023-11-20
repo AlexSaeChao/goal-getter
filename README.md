@@ -1,3 +1,26 @@
+# GoalGetter
+
+By Alex Chao
+
+## Summary of Idea
+GoalGetter transforms aspirations into action. Users can systematically break down lofty goals into achievable tasks within a to-do app framework. By focusing on incremental progress, GoalGetter helps to maintain motivation and clarity, addressing the common problem of goal abandonment due to overwhelm or lack of organization. It’s the bridge between daydreaming and doing, turning the 'someday' into 'today'.
+
+## Problem or Pain Point It Solves
+GoalGetter tackles the overwhelming nature of ambitious goals by simplifying them into actionable tasks. It helps users avoid the paralysis that often comes with complex, long-term objectives by providing a clear, manageable roadmap of smaller steps. The app also keeps users accountable and on track, preventing the out-of-sight, out-of-mind scenario that derails many from their ultimate goals.
+
+## Minimum Viable Product (MVP) Definition for Demo Day
+The MVP of GoalGetter will include:
+
+1. **User Account Creation:** To personalize experience and save progress.
+2. **Goal Setting Feature:** Allows users to define their long-term goals.
+3. **Task Breakdown Functionality:** Enables users to divide goals into smaller, actionable tasks.
+4. **Progress Tracking:** A simple visual representation of task completion and goal progression.
+5. **Reminders and Notifications:** To keep users engaged and to encourage regular interaction with their tasks.
+6. **Basic User Interface (UI):** A clean, intuitive design that makes navigation and task management straightforward.
+
+This MVP is designed to showcase the core functionality of GoalGetter, highlighting how it can help users work towards and achieve their goals in a structured and user-friendly way.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
